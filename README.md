@@ -1,7 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Url of admin page: /admin_page 
-Login: admin, password: admin
+Url of admin page: /admin_page, login: admin, password: admin
 
 ## Available Scripts
 
