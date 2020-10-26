@@ -27,7 +27,7 @@ const Login = (props) => {
     }
 
   if (props.isAuth) {
-    return <Redirect to={'/admin_page'}/>
+    return <Redirect to={'/'}/>
   }
   return (
         <div className={'row mt-4'}>
